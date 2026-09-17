@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Build output
+build/
+dist/
+
+# Local packaging files
+manifest.txt
+StudentManagementSystem.jar
