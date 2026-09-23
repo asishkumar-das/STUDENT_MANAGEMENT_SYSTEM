@@ -2,28 +2,26 @@
 
 A desktop-based Student Management System developed using Java Swing, JDBC, and Oracle Database.
 
-## 📌 Project Overview
+## Project Overview
 
-The Student Management System is a Java desktop application designed to manage student records efficiently.
+The Student Management System is a Java desktop application designed to manage student records through a user-friendly graphical interface.
 
-The application provides a user-friendly graphical interface for performing student management operations such as adding, viewing, searching, updating, and deleting student records.
+The application provides functionality for adding, viewing, searching, updating, and deleting student records.
 
-## 🚀 Features
+## Features
 
-- 🔐 User Login
-- 📊 Dashboard
-- 👨‍🎓 Add Student
-- 📋 View All Students
-- 🔍 Search Student
-- ✏️ Update Student
-- 🗑️ Delete Student
-- 🎓 CGPA Management
-- 🔄 Refresh Student Records
-- 📁 Export Student Data to CSV
-- 🔑 Change Password
-- 🚪 Logout
+- Add Student
+- View All Students
+- Search Student
+- Update Student
+- Delete Student
+- CGPA Management
+- Refresh Student Records
+- Export Student Data to CSV
+- Change Password
+- Logout
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - Java Swing
@@ -33,7 +31,7 @@ The application provides a user-friendly graphical interface for performing stud
 - VS Code
 - Oracle JDBC Driver (ojdbc11)
 
-## 🗄️ Database
+## Database
 
 The project uses Oracle Database for storing student information.
 
